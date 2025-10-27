@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="Linguagem C" width="100" height="100"/>
 </p>
-<h1 align="center">Gerador de Dados Aleatórios em C</h1>
+<h1 align="center">Gerador de CPF em C</h1>
 
 Este é um programa de console simples, escrito em **Linguagem C**, que solicita um nome ao usuário e gera um número de CPF aleatório e fictício.
 
