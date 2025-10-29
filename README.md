@@ -28,7 +28,7 @@ Você vai precisar de um compilador C, como o GCC.
 
     ---
 
-## 👨‍💻 Autor
+## 👨🏻‍💻  Autor
 
 * **Autor:** Allan Henrique Rosa Silva
 * **Instituição:** UNIPAC Barbacena
